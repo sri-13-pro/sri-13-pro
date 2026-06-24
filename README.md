@@ -44,11 +44,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-13-pro&layout=compact&theme=tokyonight"/>
 </p>---
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sri-13-pro&theme=tokyonight"/>
-</p>---
 
 📈 Profile Views
 
